@@ -20,3 +20,17 @@ Your task? Craft a conditional to check if the number is the lucky 7. If it is, 
 A great exercise to test your Python skills and have some fun with randomness. 
 
 Perfect for beginners and seasoned coders alike! 🐍✨
+
+🤒🏠 Calling in Sick: A Python Decision-Making Simulation [caling_in_sick.py] 
+
+🚀 - Explore the whimsical world of workday dilemmas with this Python project! 
+
+The script humorously simulates the decision to call in sick based on various factors. 
+
+It randomly assigns values to being actually sick, kinda sick, hating your job, and the number of sick days available. 
+
+The challenge? Write a logic that decides if you're calling in sick. 
+
+Whether it's a genuine need for rest or just a bad case of Monday blues, this project offers a fun way to practice Python conditionals and randomization. 
+
+Perfect for those looking to add a dash of humor to their coding skills! 😄💻
